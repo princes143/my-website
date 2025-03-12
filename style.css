@@ -1,0 +1,88 @@
+
+
+
+   
+
+
+#hi11{
+    font-size:50px;
+    text-shadow: 3px 3px 5px rgb(188, 55, 55), -3px -3px 5px rgb(73, 99, 230);
+    position:relative;
+    left: 40px;
+    
+    
+}
+#eluks,#luks,#uks{
+    margin-top: 0px;
+    background-color: blue;
+    position: relative;
+    bottom: 0px;
+    
+}
+#luks{
+    
+    list-style: none;
+    padding:0;
+    margin:0;
+}
+#uks{
+    position:relative;
+    left: 40px;
+    font-size: larger;
+    display:inline-block;
+    margin-right: 20px;
+    font-weight: 400;
+}
+
+.pick{
+    position: relative;
+    top:70px;
+    left:20px;
+}
+#intro,#liks,#uks,h1{
+    color: white;
+font-family: 'Times New Roman', Times, serif;
+}
+#intro{
+    position:relative;
+    left: 286px;
+    bottom:150px;
+    font-size:xx-large;
+}
+#musics{
+    color:white;
+    font-size:x-large;
+    font-family: 'Times New Roman', Times, serif;
+    position:relative;
+    top: 60px;
+    left:70px;
+}
+#kol{
+    margin: 20px 20px 40px 20px;
+}
+#lo,#kol{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    margin-bottom: 5px;
+}
+#p2,#h3{
+    color: white;
+   
+}
+#p2{
+    margin-left: 20px;
+    font-size: 30px;
+    text-decoration: none;
+}
+#h3{
+    text-decoration: none;
+    margin: 30px;
+}
+#h3:hover{
+    text-shadow: 3px 3px 5px rgb(188, 55, 55), -3px -3px 5px rgb(73, 99, 230);
+}
+
+#chapter{
+    margin: 20px 20px;
+}
